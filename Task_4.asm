@@ -10,3 +10,4 @@
     b. Documentation Requirement: Explain how the program determines which 
     action to take based on the “sensor” input and how memory locations or ports are manipulated to reflect the motor or alarm status.
 */
+
